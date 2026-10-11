@@ -1,4 +1,4 @@
-import React, { useState, useRef, useEffect } from "react";
+import { useState, useRef, useEffect } from "react";
 import { Link, NavLink } from "react-router-dom";
 import { varieties } from "../data/varieties";
 import { AnimatePresence, motion } from "framer-motion";

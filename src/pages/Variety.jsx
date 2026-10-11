@@ -1,6 +1,5 @@
 import { useParams, Link } from "react-router-dom";
 import { varieties } from "../data/varieties";
-import React from "react";
 import { motion } from "framer-motion";
 
 const Variety = () => {

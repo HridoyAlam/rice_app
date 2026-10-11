@@ -1,6 +1,5 @@
 import { Link } from "react-router-dom";
 import Hero from "../components/Hero";
-import React from "react";
 import { varieties } from "../data/varieties";
 
 const Home = () => {

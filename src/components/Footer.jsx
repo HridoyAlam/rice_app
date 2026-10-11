@@ -1,5 +1,3 @@
-import React from "react";
-
 const Footer = ({ source, author, github }) => {
   return (
     <footer className="bg-field text-white">
